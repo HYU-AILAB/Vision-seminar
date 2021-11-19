@@ -11,7 +11,7 @@
 |  10/5 | 임희주 | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows                  |
 |  10/5 | 임희주 | SwinIR: Image Restoration Using Swin Transformer                                         |
 |  10/5 | 조건희 | Feature Pyramid Transformer                                                              |
-| 10/05 | 백형렬 | End-to-End Object Detection with Transformers                                            |
+| 10/5 | 백형렬 | End-to-End Object Detection with Transformers                                            |
 | 10/13 | 백형렬 | MLP-Mixer: An all-MLP Architecture for Vision                                            |
 | 10/13 | 백형렬 | ResMLP: Feedforward networks for image classification with data-efficient training       |
 | 10/19 | 백형렬 | RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition |
